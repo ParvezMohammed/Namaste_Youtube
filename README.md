@@ -30,12 +30,12 @@ This project is a part of the **Namaste React Series by Akshay Saini**, focused 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/ParvezMohammed/Namaste_Youtube.git
    ```
 
 2. **Navigate to the folder:**
    ```bash
-   cd youtube-clone
+   cd Namaste_Youtube
    ```
 
 3. **Install dependencies:**
